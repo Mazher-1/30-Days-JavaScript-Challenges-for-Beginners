@@ -1,3 +1,4 @@
+// Javascript
 // Get the text input area and character count display elements
 const textInput = document.getElementById('textInput');
 const charCountDisplay = document.getElementById('charCountDisplay');
