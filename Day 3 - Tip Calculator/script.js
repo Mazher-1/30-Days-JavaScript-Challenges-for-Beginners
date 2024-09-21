@@ -1,3 +1,4 @@
+// Javascript
 // Get DOM elements
 const billAmount = document.getElementById('billAmount');
 const tipPercentage = document.getElementById('tipPercentage');
