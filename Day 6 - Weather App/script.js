@@ -1,3 +1,4 @@
+// Javascript
 const apiKey = '6e11fb60f2f741ba0bd98b8d5b8a3bb3'
 
 const cityInput = document.getElementById('cityInput');
