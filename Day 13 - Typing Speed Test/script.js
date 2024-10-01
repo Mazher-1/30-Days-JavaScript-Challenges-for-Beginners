@@ -1,3 +1,4 @@
+// Javascript
 // Sentences array to choose a random sentence from
 const sentences = [
     "The quick brown fox jumps over the lazy dog.",
